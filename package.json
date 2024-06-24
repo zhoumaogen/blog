@@ -1,0 +1,22 @@
+{
+  "name": "vuepress-personal-blog",
+  "version": "1.0.2",
+  "author": "ZhouMaogen",
+  "email": "zhoumaogen@outlook.com",
+  "scripts": {
+    "start": "npm run dev",
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build .",
+    "preinstall": "npm config set registry https://registry.npmjs.org/"
+  },
+  "devDependencies": {
+    "vuepress": "^1.7.1",
+    "vuepress-theme-reco": "^1.6.1"
+  },
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-bulletin-popover": "^1.5.7",
+    "@vuepress-reco/vuepress-plugin-pagation": "^1.6.0",
+    "vue-class-component": "^7.2.3"
+  },
+  "description": "ZhouMaogen's personal blog."
+}
