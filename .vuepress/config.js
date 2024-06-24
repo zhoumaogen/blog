@@ -129,14 +129,6 @@ module.exports = {
         "text": "标签"
       },
       "socialLinks": [
-        {
-          "icon": "reco-weibo",
-          "link": "https://weibo.com/zmg1059898830"
-        },        
-        {
-          "icon": "reco-facebook",
-          "link": "https://facebook.com/mecan.zhou.16"
-        }
       ]
     },
     "friendLink": [
