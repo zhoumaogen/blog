@@ -65,7 +65,7 @@ module.exports = {
           },
           {
             "text": "GitHub",
-            "link": "https://github.com/CodeUnaVia",
+            "link": "https://github.com/zhoumaogen",
             "icon": "reco-github"
           },
           {
